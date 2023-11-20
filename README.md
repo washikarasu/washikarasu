@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there. 👋
 # Won't you please sign my petition? 📋
-<img src="https://github.com/washikarasu/washikarasu/assets/85062773/bbcf89a5-1ea0-4808-8741-0a012e00a837" alt="Silly" height="500em" />
+<img src="https://github.com/washikarasu/washikarasu/assets/85062773/de3cc65b-6a3b-43c1-b43b-cfd133c10c69" alt="Silly" height="500em" />
